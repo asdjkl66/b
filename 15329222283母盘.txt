@@ -24,13 +24,7 @@ DAY BY DAY,https://d.kstore.dev/download/9181/T-ara.MP4
 魅力音乐,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 纯享4K,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
 纯享4K,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011651
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV4K,http://php.jdshipin.com/TVOD/iptv.php?id=cctv4k
-CCTV4K,http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
-CCTV4K,http://php.jdshipin.com/cqyx.php?id=CCTV4K
-CCTV4K,https://tv.iill.top/4k/cctv4k
-CCTV4K,http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
+NOW直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV16-4K,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000008000023254
 CCTV16-4K,http://php.jdshipin.com/bst2.php?id=cctv16hd4k/15000000
 CCTV16-4K,http://php.jdshipin.com/bestv.php?id=cctv16hd4k/15000000
