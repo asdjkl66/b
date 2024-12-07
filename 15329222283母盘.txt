@@ -350,13 +350,13 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 
 
 🇭🇰港澳频道,#genre#
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
 环球电视台,https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8
 环球电视台,
@@ -473,7 +473,6 @@ IHOT-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 李连杰,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342390
 李连杰,http://mtw.so/69HNaP
 李连杰1,http://zby.xjqxz.top/lljdy/live.m3u8
-邱淑贞,http://diyp.zxxoo.work/huya/11352949
 甄子丹,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352935
 成龙,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342386
 成龙2,http://zby.xjqxz.top/cldy/live.m3u8
@@ -551,6 +550,7 @@ IHOT-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 怪兽,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=21059577
 罪犯,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352962
 枪战,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=21059579
+邱淑贞,http://diyp.zxxoo.work/huya/11352949
 电影_星爷,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342412
 电影_英叔,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342421
 电影_成龙,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342386
@@ -773,9 +773,9 @@ IHOT-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-星爷,http://111.67.193.2:35455/huya/11342412
-英叔,http://111.67.193.2:35455/huya/11342421
-发哥,http://111.67.193.2:35455/huya/11342387
+周星驰1,http://111.67.193.2:35455/huya/11342412
+林正英,http://111.67.193.2:35455/huya/11342421
+周润发,http://111.67.193.2:35455/huya/11342387
 成龙,http://111.67.193.2:35455/huya/11342386
 王晶,http://111.67.193.2:35455/huya/11602058
 沈腾,http://111.67.193.2:35455/huya/11601968
@@ -815,8 +815,8 @@ IHOT-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 历年贺岁大片,https://aldirect.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv
 金庸武侠系列,https://aldirect.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
 电影,https://aldirect.flv.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.flv
-1905国内,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
-1905电影,https://aldirect.flv.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.flv
+1905极限反转,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
+1905极限反转,https://aldirect.flv.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.flv
 TVB官方,https://aldirect.flv.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.flv
 海绵宝宝,https://aldirect.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.flv
 猫和老鼠,https://aldirect.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv
@@ -916,14 +916,6 @@ NBA咪咕播53,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8
 NBA咪咕壹4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA咪咕贰4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA咪4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
-精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级体育,,https://epg.pw/stream/b5b459fdf6a6a42903675a6e0b7dea1a98b65b4821289b293c9676167fa75c74.m3u8
-央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 
 🔏天瑞祥和_0852,#genre#
