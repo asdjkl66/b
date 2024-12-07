@@ -126,7 +126,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 凤冈综合,http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 遵义都市,http://pluslive.zunyifb.com/dspd/hd/live.m3u8
-七星关,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 黔西南综合,http://dsm.52mm.top:28888/rtp/238.255.2.126:5999
 瓮安电视,http://dsm.52mm.top:28888/rtp/238.255.2.201:5999
 六盘水公共,https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
