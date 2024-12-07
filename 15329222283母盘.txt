@@ -112,14 +112,14 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 
 
 🇨🇳最美贵州,#genre#
-贵州1,http://dsm.52mm.top:28888//rtp/238.255.2.1:5999
+贵州卫视,http://dsm.52mm.top:28888//rtp/238.255.2.1:5999
 贵州2,https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=dd6adcb09410280bcee23368e5397266&txTime=66FA6856
 贵州3,https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=6b0414695bed374b71d89ed5db21b73e&txTime=66FA6395
 贵州4,http://117.72.68.25:9930/guizhou.php?id=gzsh
 贵州5,http://117.72.68.25:9930/guizhou.php?id=gz5p
 贵州6,http://117.72.68.25:9930/guizhou.php?id=kjjk
 贵州7,http://dsm.52mm.top:28888/rtp/238.255.2.9:5999
-贵州移动,http://117.72.68.25:9930/guizhou.php?id=ydsz
+贵州移动电视,http://117.72.68.25:9930/guizhou.php?id=ydsz
 遵义综合,http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=c4dde1371719055056
 遵义都市,http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=383250701719055062
 道真新闻,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
