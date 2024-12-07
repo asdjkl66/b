@@ -102,6 +102,23 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 风云音乐,https://stream1.freetv.fun/cctvfeng-yun-yin-le-20.ctv
 央视文化精品,http://nas.hssvm.com:8888/udp/225.1.2.177:5002
 
+CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
+CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
+CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
+CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
+CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
+CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
+CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
+CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
+CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
+
 
 🇨🇳最美贵州,#genre#
 贵州卫视,http://dsm.52mm.top:28888//rtp/238.255.2.1:5999
@@ -139,6 +156,7 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 黔西南公共,http://live2.qxndt.com/ggpd/sd/live.m3u8?_upt=493cdd001721931053
 黔西南公共,
 黔西南公共,http://dsm.52mm.top:28888/rtp/238.255.2.127:5999
+安顺新闻,http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻,http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8$安顺电台官网
 安顺公共,http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154526164.m3u8$安顺电台官网
 安顺新闻,https://player.juyun.tv/camera/64413134.m3u8
@@ -351,12 +369,19 @@ CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com//
 
 🇭🇰港澳频道,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8345&tk=2aca1ad9a849
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5588&tk=2aca1ad9a849
+凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
 环球电视台,https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8
 环球电视台,
@@ -388,7 +413,9 @@ NOW爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 🎥New TV,#genre#
 CHC高清电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
 CHC家庭影院,https://stream1.freetv.fun/d208460595c85d5284ac26444f6618991214d285792b58fa237710f2269fc489.m3u8
 CHC家庭影院,
 CHC动作电影,https://stream1.freetv.fun/5ce7d28c800a9e19fdd1e9e3f3403459943eb185cb29a629a2a1eb57ee75c288.m3u8
