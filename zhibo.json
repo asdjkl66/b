@@ -73,7 +73,7 @@
 {"name":"💓梁旭直播（备用）💓","type":0,"url":"https://git.acwing.com/tv1/tv2/-/raw/main/15329222283%E6%AF%8D%E7%9B%98.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
 {"name":"📶IPV4","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"📶IPV6①","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
-{"name":"📶IPV6②","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"📶IPV6②","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u","playerType":1,"logo": "https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
 {"name":"📀MV欣赏📀","type":0,"url":"https://git.acwing.com/tv1/tv2/-/raw/main/mv.txt","playerType":1},
 {"name":"恐怖片","type":0,"url":"https://d.kstore.dev/download/9181/%E6%81%90%E6%80%96%E7%89%87.txt","playerType":1},
 {"name":"三级片","type":0,"url":"https://d.kstore.dev/download/9181/%E4%B8%89%E7%BA%A7%E7%89%87.txt","playerType":1}
