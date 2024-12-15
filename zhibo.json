@@ -66,68 +66,18 @@
 
 
 //=========直播=================================
-  "lives": [
-    {
-           "name": "💑梁旭直播💑",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/9181/15329222283%E6%AF%8D%E7%9B%98.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-      "logo": "https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
-
-    {
-           "name": "转播IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-     {
-           "name": "佛系直播",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-     {
-           "name": "佛系体育",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Sport",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-     {
-           "name": "佛系网络",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-     {
-           "name": "佛系Live",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-     {
-           "name": "欣赏MTV",
-      "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=d9b51IJREMTV6wCJpYM0xPayyG3Qtwify9Vt8IXHgAypiDZal7JKfJti0nuBKvjRQ3M&name=/%E7%BD%91%E7%BB%9CMTV.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
-    {
-      "name": "  ",
-      "type": 0,
-      "url": "填写地址",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
-    }]}
-
-
+  
+"logo":"http://34.84c.cn/cdn/265/223.198.2.58_1208175836.gif",
+"lives":[
+{"name":"梁旭直播","type":0,"url":"https://d.kstore.dev/download/9181/15329222283%E6%AF%8D%E7%9B%98.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
+{"name":"梁旭直播（备用）","type":0,"url":"https://git.acwing.com/tv1/tv2/-/raw/main/15329222283%E6%AF%8D%E7%9B%98.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
+{"name":"IPV4","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPV6①","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
+{"name":"恐怖片","type":0,"url":"https://d.kstore.dev/download/9181/%E6%81%90%E6%80%96%E7%89%87.txt","playerType":1},
+{"name":"三级片","type":0,"url":"https://d.kstore.dev/download/9181/%E4%B8%89%E7%BA%A7%E7%89%87.txt","playerType":1},
+{"name":"IPV6②","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"}
+]
+}
 
 
 
