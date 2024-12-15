@@ -68,12 +68,14 @@
 //=========直播=================================
   "lives": [
     {
-           "name": "💑春盈天下💑",
+           "name": "💑梁旭直播💑",
       "type": 0,
-      "url": "https://d.kstore.dev/download/4246/%E5%9B%BA%E5%AE%9A%E7%94%B5%E8%A7%86668.txt.css",
+      "url": "https://d.kstore.dev/download/9181/15329222283%E6%AF%8D%E7%9B%98.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+      "logo": "https://git.acwing.com/tv1/tv2/-/raw/main/taibiao/{name}.png"},
+
     {
            "name": "转播IPV6",
       "type": 0,
