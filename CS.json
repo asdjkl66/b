@@ -8,6 +8,27 @@
 {"key":"欧歌js","name":"🐲欧歌┃夸速4k","type":3,"api":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m//js/4k.min.js","ext":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m//js/og4K.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "量子资源","name": "🥑量子资源","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": ["国产剧","国产动漫", "泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{
+			"key": "csp_Netfixtv",
+			"name": "💯至臻┃4K4K",
+			"type": 3,
+			"api": "csp_Duopan",
+			"changeable": 0,
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"https://mihdr.top",
+					"http://www.xhww.net",
+					"http://xhww.net",
+					"https://xiaomiai.site"
+				],
+				"url_key": "Duopan",
+				"threadinfo": {
+					"chunksize": 250,
+					"threads": 10
+				}
+			}
+		},
 
 {"key":"玩偶","name":"一号服务器①","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
