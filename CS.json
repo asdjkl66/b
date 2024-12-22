@@ -21,7 +21,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://ztha.top/TVBox/lib/drpy2.min.js",
-      "ext": "https://ztha.top/TVBox/lib/lib/jp.js"
+      "ext": "https://ztha.top/TVBox/lib/jp.js"
     },
 
 {"key":"玩偶","name":"一号服务器①","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
