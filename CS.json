@@ -29,6 +29,24 @@
 				}
 			}
 		},
+		{
+			"key": "csp_UC",
+			"name": "💌MIUC┃4K4K",
+			"type": 3,
+			"api": "csp_MiUc",
+			"changeable": 0,
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://www.mucpan.cc",
+					"http://ucmi.fun",
+					"http://www.ucmi.fun"
+				],
+				"url_key": "MiUc",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 10
+				}
 
 {"key":"玩偶","name":"一号服务器①","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
