@@ -3,7 +3,6 @@
 云朵,https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8 
 MTVLIVEHD音乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
 咪咕音乐,http://157.148.134.6/live-bvc/682702/live_1749710516_4875726_2500/index.m3u8
-爱你千万年,https://d.kstore.dev/download/9181/ainiqianwannian.mkv
 爱你千万年,https://pan.xccld.icu/f/NmvIw/ainiqianwanian.mkv
 刘宪华TRAP,https://pan.xccld.icu/f/mp7Tb/Henry.mkv
 青城山下白素贞,https://pan.xccld.icu/f/Ogqt5/duqing.mkv
@@ -88,6 +87,7 @@ CCTV14,http://zb.xmzb.xyz/cctv.php?id=cctv14
 CCTV15,http://zb.xmzb.xyz/cctv.php?id=cctv15
 CCTV16,http://zb.xmzb.xyz/cctv.php?id=cctv16
 CCTV17,http://zb.xmzb.xyz/cctv.php?id=cctv17
+
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
 CCTV3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
@@ -143,7 +143,6 @@ CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8 
 CCTV12,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000509
-CCTV12,
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8 
 CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8 
@@ -182,6 +181,60 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 🛰️央视IPV4,#genre#
+CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+CCTV1,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
+CCTV1,http://120.77.28.4:8648/migu.php?id=cctv1
+CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+CCTV2,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv2
+CCTV2,http://120.77.28.4:8648/migu.php?id=cctv2
+CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+CCTV3,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv3
+CCTV3,http://120.77.28.4:8648/migu.php?id=cctv3
+CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+CCTV4,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4
+CCTV4,http://120.77.28.4:8648/migu.php?id=cctv4
+CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+CCTV5,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
+CCTV5,http://120.77.28.4:8648/migu.php?id=cctv5
+CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
+CCTV5+,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5p
+CCTV5+,http://120.77.28.4:8648/migu.php?id=cctv5p
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
+CCTV6,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv6
+CCTV6,http://120.77.28.4:8648/migu.php?id=cctv6
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+CCTV7,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv7
+CCTV7,http://120.77.28.4:8648/migu.php?id=cctv7
+CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
+CCTV8,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv8
+CCTV8,http://120.77.28.4:8648/migu.php?id=cctv8
+CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
+CCTV9,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv9
+CCTV9,http://120.77.28.4:8648/migu.php?id=cctv9
+CCTV10,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
+CCTV10,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv10
+CCTV10,http://120.77.28.4:8648/migu.php?id=cctv10
+CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
+CCTV11,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv11
+CCTV11,http://120.77.28.4:8648/migu.php?id=cctv11
+CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
+CCTV12,http://120.77.28.4:8648/migu.php?id=cctv12
+CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
+CCTV13,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv13
+CCTV13,http://120.77.28.4:8648/migu.php?id=cctv13
+CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
+CCTV14,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv14
+CCTV14,http://120.77.28.4:8648/migu.php?id=cctv14
+CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
+CCTV15,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv15
+CCTV15,http://120.77.28.4:8648/migu.php?id=cctv15
+CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
+CCTV17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
+CCTV17,http://120.77.28.4:8648/migu.php?id=cctv17
+CCTV4美洲,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4a
+CCTV4欧洲,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4o
+
 CCTV1,http://182.92.109.190:1668/72/72.php?id=cctv1$通用咪咕
 CCTV2,http://182.92.109.190:1668/72/72.php?id=cctv2$通用咪咕
 CCTV3,http://182.92.109.190:1668/72/72.php?id=cctv3$通用咪咕
@@ -263,6 +316,8 @@ CCTV风云音乐,http://119.125.134.179:9901/tsfile/live/1039_1.m3u8
 CCTV风云音乐,http://121.19.134.139:808/tsfile/live/1036_1.m3u8
 CCTV高尔夫球,http://nas.hssvm.com:8888/udp/225.1.1.182:5002
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
+
+
 
 🇨🇳最美贵州,#genre#
 贵州卫视,http://dsm.52mm.top:28888//rtp/238.255.2.1:5999
