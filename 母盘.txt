@@ -1,4 +1,4 @@
-🎼梁旭Music,#genre#
+Music,#genre#
 卓依婷,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8 
 云朵,https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8 
 MTVLIVEHD音乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
