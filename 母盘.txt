@@ -1,4 +1,4 @@
-🎼梁旭Music,#genre#
+Music,#genre#
 卓依婷,https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8 
 云朵,https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8 
 MTVLIVEHD音乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
@@ -1378,8 +1378,3 @@ NBA咪咕壹4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8
 NBA咪咕贰4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA咪4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
-
-🔏天瑞祥和_0852,#genre#
-天瑞祥和,https://open.ys7.com/v3/openlive/L38412927_1_1.m3u8?expire=1751111428&id=728699202265391104&t=7480aae4dd8ac916af636335067e76d7de03a41229fadbf1f65a1601239e795d&ev=100
-天瑞祥和,https://rtmp01open.ys7.com:9188/v3/openlive/L38412927_1_1.flv?expire=1751111428&id=728699201193521152&t=184722a546315fbf84f3cbbc81b00feb240b530f1e2941423840640c80ba9cf8&ev=100
-芳,https://d.kstore.dev/download/9181/chenyanfang.mp4
